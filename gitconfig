@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hello@clement-leboulanger.com
+	name = Clement Le Boulanger
